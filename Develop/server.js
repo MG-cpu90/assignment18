@@ -25,4 +25,5 @@ app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
+  console.log("Server listening on: http://localhost:" + PORT);
 });
