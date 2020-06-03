@@ -18,6 +18,10 @@ THEN that will be shown on the page, and added to their transaction history when
 ```
 - - -
 
+## Successess & Bugs
+
+* Although the app is a PWA, I was unable to have the offline entries be added to the tracker when the app brought back online
+
 ## Submission on BCS
 
 * You are required to submit the following:
