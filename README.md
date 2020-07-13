@@ -18,6 +18,15 @@ THEN that will be shown on the page, and added to their transaction history when
 ```
 - - -
 
+## Usage
+
+* In order to run the following application, first clone the GitHub repository to your local device.
+* Then, open the project root directory in the terminal window, and run "npm install" 
+* In a second terminal window, open MongDB by running "mongod" or "mongo"
+* After the libraries needed to run the application have been installed, run "npm start" file through node
+* Navigate to the URL: http://localhost:3000/ in order to view the web application
+
+
 ## Successess & Bugs
 
 * Although the app is a PWA, I was unable to have the offline entries be added to the tracker when the app brought back online
