@@ -35,7 +35,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * You are required to submit the following:
 
-  * the URL to the deployed application
+  * the URL to the deployed application: https://online-offiline-budget-tracker.herokuapp.com/
 
   * the URL to the Github repository: https://github.com/MG-cpu90/assignment18
 
